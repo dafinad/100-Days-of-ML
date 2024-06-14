@@ -1,5 +1,5 @@
-## 100-Days-of-ML
-100 Days of Machine Learning: Documenting My Journey Here
+# 100-Days-of-ML
+100 Days of Machine Learning: Documenting My Journey Here 👾
 
 # Day 1
 Type of machine learning: Supervised, Unsupervised, Reinforcement Learning
