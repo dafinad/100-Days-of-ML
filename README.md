@@ -14,10 +14,12 @@ References:
 
 # Day 2
 
-<p align="left">
+## Real-life Example
+<p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day2-RealLifeExample.png">
 </p>
 
-<p align="right">
+## Simple ML coding
+<p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day2-SimpleMLCoding.png">
 </p>
