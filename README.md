@@ -25,7 +25,7 @@ References:
 </p>
 
 # Day 3
-https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day3-classification%26regression.png
+
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day3-classification%26regression.png">
 </p>
