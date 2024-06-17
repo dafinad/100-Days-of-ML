@@ -29,3 +29,11 @@ References:
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day3-classification%26regression.png">
 </p>
+
+# Day 4
+
+
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day4-LinearRegression.png">
+</p>
