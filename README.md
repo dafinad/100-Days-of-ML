@@ -37,3 +37,10 @@ References:
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day4-LinearRegression.png">
 </p>
+
+# Day 5
+
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day5-RegressionEvaluationMetrics.png">
+</p>
