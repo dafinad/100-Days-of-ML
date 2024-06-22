@@ -38,6 +38,8 @@ References:
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day4-LinearRegression.png">
 </p>
 
+First linear Regression Project [here] (https://github.com/dafinad/100-Days-of-ML/blob/main/Code/FirstLinearRegression.ipynb).
+
 # Day 5
 
 
