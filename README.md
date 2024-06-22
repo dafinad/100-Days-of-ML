@@ -46,3 +46,10 @@ First linear Regression Project [here](https://github.com/dafinad/100-Days-of-ML
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day5-RegressionEvaluationMetrics.png">
 </p>
+
+# Day 6
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day6-MultipleLinearRegression.png">
+</p>
+
