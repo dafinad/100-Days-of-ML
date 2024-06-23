@@ -53,3 +53,4 @@ First linear Regression Project [here](https://github.com/dafinad/100-Days-of-ML
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day6-MultipleLinearRegression.png">
 </p>
 
+Simple Linear Regression & Multiple Linear Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Code/SimpleLinear%26Multiple.R)
