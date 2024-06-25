@@ -64,3 +64,8 @@ References: https://www.spiceworks.com/tech/artificial-intelligence/articles/wha
 https://github.com/dafinad/100-Days-of-ML/blob/main/Notes/Logistic%20Regression.pdf
 
 Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Notes/Logistic%20Regression.pdf).
+
+# Day 8 - Data Cleaning & Visualization
+
+[Data Cleaning& Visualization code]( https://github.com/dafinad/100-Days-of-ML/blob/main/Code/Data%20Cleaning%26%20Visualization.ipynb)
+Type of plots: https://matplotlib.org/stable/plot_types/index
