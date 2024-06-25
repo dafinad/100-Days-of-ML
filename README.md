@@ -61,3 +61,6 @@ Simple Linear Regression & Multiple Linear Regression [here](https://github.com/
 </p>
 
 References: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/
+https://github.com/dafinad/100-Days-of-ML/blob/main/Notes/Logistic%20Regression.pdf
+
+Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Notes/Logistic%20Regression.pdf).
