@@ -24,13 +24,13 @@ References:
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day2-SimpleMLCoding.png">
 </p>
 
-# Day 3 
+# Day 3 - Classification VS Regression
 
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day3-classification%26regression.png">
 </p>
 
-# Day 4
+# Day 4 - Linear Regression
 
 
 
@@ -40,14 +40,14 @@ References:
 
 First linear Regression Project [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Code/FirstLinearRegression.ipynb).
 
-# Day 5
+# Day 5 - Regression Metrics
 
 
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day5-RegressionEvaluationMetrics.png">
 </p>
 
-# Day 6
+# Day 6 - Multiple Linear Regression
 
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day6-MultipleLinearRegression.png">
@@ -55,7 +55,7 @@ First linear Regression Project [here](https://github.com/dafinad/100-Days-of-ML
 
 Simple Linear Regression & Multiple Linear Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Code/SimpleLinear%26Multiple.R)
 
-# Day 7
+# Day 7 - Logistic Regression
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day7-Logistic%20Regression.png">
 </p>
