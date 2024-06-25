@@ -54,3 +54,10 @@ First linear Regression Project [here](https://github.com/dafinad/100-Days-of-ML
 </p>
 
 Simple Linear Regression & Multiple Linear Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/main/Code/SimpleLinear%26Multiple.R)
+
+# Day 7
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day7-Logistic%20Regression.png">
+</p>
+
+References: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/
