@@ -80,3 +80,9 @@ Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/
 <p align="center">
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day10-Classification.png">
 </p>
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day10-TypesOfClassification.png">
+</p>
+
+
