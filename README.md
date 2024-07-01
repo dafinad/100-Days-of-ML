@@ -71,5 +71,5 @@ Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/
 * Type of plots: https://matplotlib.org/stable/plot_types/index
 
 # Day 9 - Build Web App
-* [UFO's Sightings over the past century]( https://github.com/dafinad/AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-/blob/main/WebApp/UFO%20Sightings/ReadMe.md)
+* [UFO's Sightings over the past century]( https://github.com/dafinad/AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-/blob/main/WebApp/UFO%20Sightings)
 * Tools: Flask, Pickle
