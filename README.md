@@ -73,3 +73,10 @@ Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/
 # Day 9 - Build Web App
 * [UFO's Sightings over the past century]( https://github.com/dafinad/AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-/blob/main/WebApp/UFO%20Sightings)
 * Tools: Flask, Pickle
+
+# Day 10 - Classification
+
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day10-Classification.png">
+</p>
