@@ -85,4 +85,9 @@ Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day10-TypesOfClassification.png">
 </p>
 
+# Day 11 - Imbalanced Classification
 
+
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day11-Imbalanced%20Classification.png">
+</p>
