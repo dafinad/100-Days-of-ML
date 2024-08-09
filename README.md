@@ -98,4 +98,8 @@ Notes Logistic Regression [here](https://github.com/dafinad/100-Days-of-ML/blob/
   <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day%2012-Confusion%20Matrix.png">
 </p>
 
+# Day 13 - Metrics
 
+<p align="center">
+  <img src="https://github.com/dafinad/100-Days-of-ML/blob/main/Poster/Day%2013-%20Metrics.png">
+</p>
